@@ -2,7 +2,7 @@
 
 /**
  * main - Entry Point
- * @n:  program prints a[2] = 98, followed by a new line
+ * @:  program prints a[2] = 98, followed by a new line
  * Return: 0
  */
 
